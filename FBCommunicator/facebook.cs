@@ -28,7 +28,7 @@ namespace FaceBookCommunicator
         {
             //Console start and print the message
             Console.WriteLine("Message Receiving Started");
-            string facebookToken = "EAACEdEose0cBAOqbvbEkRQg7hMYNpD9z4vKfpMhNpX1xmwnEyoGZCzepEluXPJa3FsPzbiNz3zrQT7Jtgx6Du3yIZCZByZBTJ58D9SrFnsrRsz8J7ZBVQPZCjyHjpwgHoitDTWTnkjgGZCOsXIDJcSnZAZAPswYE414EvA9NZAZAIXiBgZDZD";
+            string facebookToken = "EAACEdEose0cBAFKszi1qJwTL6ZBLHkzZCqZBJVWV872QTX6wzrFiXnXtV17fRa1CTiIuC9cfdbOG8EggyeJZAdHSqKDtq9px0nLv6QErNk8IXuKfjDiwA12uEovjI7ZCZC1WyAZAJnD5khGe8PqcwRkJ1jEIiyLmgawjZA9xwFwTicHF0IhItYmi";
             var client = new FacebookClient(facebookToken);
             try
             {
@@ -37,12 +37,7 @@ namespace FaceBookCommunicator
             
 
                 foreach (dynamic item in me.data)
-                {
-                    //item is a conversation
-                    //the latest updated conversations come first so
-                    //im just gona grab the first conversation with unreaded / unseen messages
-                    // string conversationID = item.id;
-                    
+                {                          
                     var name = item[2][0];
 
 

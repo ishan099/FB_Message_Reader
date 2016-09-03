@@ -18,8 +18,7 @@ namespace FaceBookCommunicator
         private int mConnectionTimeOut = 0;
         private string dataSource = "";
         public string ConnStr = "";
-        //private RegistryKey mykey = Registry.LocalMachine.OpenSubKey("SOFTWARE\\Duo\\Activations");
-        // ConnStr =  "data source = LocalHost;initial catalog = CBNDB;integrated security=SSPI";
+   
 
 
         private SqlTransaction dbTran;
@@ -167,15 +166,7 @@ namespace FaceBookCommunicator
 
 
 
-        /// <summary>
-        /// This will return a the Next Transaction No
-        ///	Without updating the m_masterData Table
-        /// </summary>
-        /// <param name="fldCode"></param>
-        /// <param name="comID"></param>
-        /// <param name="locID"></param>
-        /// <param name="braID"></param>
-        /// <returns></returns>
+ 
 
 
 
@@ -269,11 +260,7 @@ namespace FaceBookCommunicator
         {
             try
             {
-                /*if (dbTran==null)							
-                    SqlHelper.ExecuteNonQuery(dbCon, CommandType.StoredProcedure, spName, paraList);
-                else
-                    SqlHelper.ExecuteNonQuery(dbTran, CommandType.StoredProcedure, spName, paraList);	
-            */
+
 
                 SqlCommand cmd = newCommand(spName, CommandType.StoredProcedure);
                 foreach (SqlParameter sqlpara in paraList)
@@ -292,9 +279,7 @@ namespace FaceBookCommunicator
         /// <summary>
         /// Execute Update or Insert Query
         /// </summary>
-        /// <param name="sqlString"></param>
-        /// <returns>Number of Recodes Efected</returns>
-        /// //protected
+ 
         public int exeNonQury(string sqlString)
         {
             try
@@ -312,9 +297,7 @@ namespace FaceBookCommunicator
 
         /// <summary>
         /// Return a DataReader
-        /// </summary>
-        /// <param name="strSelect">SQL Query</param>
-        /// <returns>Data Reader</returns>
+     
         protected SqlDataReader getDataReader(string strSelect)
         {
             SqlDataReader mDataReader;

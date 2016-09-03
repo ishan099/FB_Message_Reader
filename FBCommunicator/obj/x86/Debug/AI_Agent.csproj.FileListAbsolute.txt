@@ -102,3 +102,12 @@ C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunic
 C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\bin\Debug\EmailCommunicator.exe.config
 C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\obj\x86\Debug\EmailCommunicator.exe
 C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\obj\x86\Debug\EmailCommunicator.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\bin\Debug\EmailCommunicator.exe
+C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\bin\Debug\EmailCommunicator.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\bin\Debug\Facebook.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\bin\Debug\Facebook.xml
+C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\obj\x86\Debug\AI_Agent.csprojResolveAssemblyReference.cache
+C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\obj\x86\Debug\FaceBookCommunicator.Properties.Resources.resources
+C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\obj\x86\Debug\AI_Agent.csproj.GenerateResource.Cache
