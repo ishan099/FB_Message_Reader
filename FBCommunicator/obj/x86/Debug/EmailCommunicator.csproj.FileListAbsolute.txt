@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EAGetMailCF35.dll
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe.config

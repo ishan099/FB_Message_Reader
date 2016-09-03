@@ -1,0 +1,26 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SmartCustomerManagementSystem\UnitTesting\bin\Debug\UnitTesting.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SmartCustomerManagementSystem\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SmartCustomerManagementSystem\UnitTesting\bin\Debug\EAGetMailCF35.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SmartCustomerManagementSystem\UnitTesting\bin\Debug\EmailCommunicator.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SmartCustomerManagementSystem\UnitTesting\bin\Debug\EmailCommunicator.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SmartCustomerManagementSystem\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SmartCustomerManagementSystem\UnitTesting\obj\Debug\UnitTesting.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SmartCustomerManagementSystem\UnitTesting\obj\Debug\UnitTesting.pdb
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\UnitTesting\bin\Debug\UnitTesting.dll
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\UnitTesting\bin\Debug\UnitTesting.pdb
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\UnitTesting\bin\Debug\EmailCommunicator.exe
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\UnitTesting\bin\Debug\EmailCommunicator.pdb
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\UnitTesting\obj\Debug\UnitTesting.dll
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\UnitTesting\obj\Debug\UnitTesting.pdb
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\UnitTesting\bin\Debug\UnitTesting.dll
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\UnitTesting\bin\Debug\UnitTesting.pdb
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\UnitTesting\bin\Debug\EmailCommunicator.exe
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\UnitTesting\bin\Debug\EmailCommunicator.pdb
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\UnitTesting\obj\Debug\UnitTesting.dll
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\UnitTesting\obj\Debug\UnitTesting.pdb
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\UnitTesting\bin\Debug\OpenNLP.dll
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\UnitTesting\bin\Debug\SharpEntropy.dll
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\UnitTesting\bin\Debug\OpenNLP.pdb
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\UnitTesting\bin\Debug\log4net.dll

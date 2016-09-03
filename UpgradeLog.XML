@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SmartCustomerManagementSystem">
+</Property><Property Name="Solution File" Value="D:\Desktop\26\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\SmartCustomerManagementSystem.sln">
+</Property><Property Name="Date" Value="Friday, January 22, 2016">
+</Property><Property Name="Time" Value="16:25 PM">
+</Property></Properties><Event ErrorLevel="0" Project="AI_Agent" Source="EmailCommunicator\AI_Agent.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="AI_Agent" Source="EmailCommunicator\AI_Agent.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="AImoduleTesting" Source="AImoduleTesting\AImoduleTesting.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="AImoduleTesting" Source="AImoduleTesting\AImoduleTesting.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="SmartCustomerManagementSystem.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SmartCustomerManagementSystem.sln" Description="Converted">
+</Event></UpgradeLog>

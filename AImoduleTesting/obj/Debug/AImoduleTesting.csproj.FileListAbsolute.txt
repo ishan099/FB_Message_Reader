@@ -1,0 +1,12 @@
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\AImoduleTesting\bin\Debug\AImoduleTesting.dll
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\AImoduleTesting\bin\Debug\AImoduleTesting.pdb
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\AImoduleTesting\bin\Debug\EAGetMailCF35.dll
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\AImoduleTesting\bin\Debug\EmailCommunicator.exe
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\AImoduleTesting\bin\Debug\log4net.dll
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\AImoduleTesting\bin\Debug\OpenNLP.dll
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\AImoduleTesting\bin\Debug\SharpEntropy.dll
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\AImoduleTesting\bin\Debug\EmailCommunicator.pdb
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\AImoduleTesting\bin\Debug\OpenNLP.pdb
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\AImoduleTesting\obj\Debug\AImoduleTesting.csprojResolveAssemblyReference.cache
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\AImoduleTesting\obj\Debug\AImoduleTesting.dll
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\AImoduleTesting\obj\Debug\AImoduleTesting.pdb

@@ -1,0 +1,101 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe.config
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\AI_Agent.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EAGetMailCF35.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\AI_Agent.csprojResolveAssemblyReference.cache
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe.config
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.exe
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.pdb
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.pdb
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\AI_Agent.csprojResolveAssemblyReference.cache
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Form1.resources
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Properties.Resources.resources
+D:\GitProjects\MyProjects\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\AI_Agent.csproj.GenerateResource.Cache
+D:\GitProjects\NewRepo2\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe.config
+D:\GitProjects\NewRepo2\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.exe
+D:\GitProjects\NewRepo2\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.pdb
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe.config
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.exe
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.pdb
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.pdb
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\OpenNLP.dll
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\SharpEntropy.dll
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\OpenNLP.pdb
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\AI_Agent.csprojResolveAssemblyReference.cache
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Form1.resources
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Properties.Resources.resources
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\AI_Agent.csproj.GenerateResource.Cache
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EAGetMailCF35.dll
+D:\GitProjects\NewRepo2\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\log4net.dll
+D:\Desktop\26\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe.config
+D:\Desktop\26\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.exe
+D:\Desktop\26\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.pdb
+D:\Desktop\26\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe
+D:\Desktop\26\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.pdb
+D:\Desktop\26\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\OpenNLP.pdb
+D:\Desktop\26\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\AI_Agent.csprojResolveAssemblyReference.cache
+D:\Desktop\26\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Form1.resources
+D:\Desktop\26\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Properties.Resources.resources
+D:\Desktop\26\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\AI_Agent.csproj.GenerateResource.Cache
+D:\Desktop\26\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EAGetMail35.dll
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Form1.resources
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Properties.Resources.resources
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\AI_Agent.csproj.GenerateResource.Cache
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe.config
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.pdb
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EAGetMail35.dll
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\Facebook.dll
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\Newtonsoft.Json.dll
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\Facebook.xml
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\Newtonsoft.Json.xml
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\AI_Agent.csprojResolveAssemblyReference.cache
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.exe
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMC_Console\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe.config
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.exe
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.exe
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EmailCommunicator.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\EAGetMail35.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\Facebook.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\Facebook.xml
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\AI_Agent.csprojResolveAssemblyReference.cache
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Form1.resources
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\EmailCommunicator.Properties.Resources.resources
+C:\Users\ishan\Dropbox\Final Project\Codes\SmartCustomerManagementSystem\EmailCommunicator\obj\x86\Debug\AI_Agent.csproj.GenerateResource.Cache
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\EmailCommunicator\bin\Debug\EmailCommunicator.exe.config
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\EmailCommunicator\obj\x86\Debug\EmailCommunicator.exe
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\EmailCommunicator\obj\x86\Debug\EmailCommunicator.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\EmailCommunicator\bin\Debug\EmailCommunicator.exe
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\EmailCommunicator\bin\Debug\EmailCommunicator.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\EmailCommunicator\bin\Debug\Facebook.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\EmailCommunicator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\EmailCommunicator\bin\Debug\Facebook.xml
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\EmailCommunicator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\EmailCommunicator\obj\x86\Debug\AI_Agent.csprojResolveAssemblyReference.cache
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\EmailCommunicator\obj\x86\Debug\AI_Agent.csproj.GenerateResource.Cache
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\EmailCommunicator\obj\x86\Debug\FaceBookCommunicator.Form1.resources
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\EmailCommunicator\obj\x86\Debug\FaceBookCommunicator.Properties.Resources.resources
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\bin\Debug\EmailCommunicator.exe.config
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\obj\x86\Debug\EmailCommunicator.exe
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\obj\x86\Debug\EmailCommunicator.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\bin\Debug\EmailCommunicator.exe
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\bin\Debug\EmailCommunicator.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\bin\Debug\Facebook.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\bin\Debug\Facebook.xml
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\obj\x86\Debug\AI_Agent.csprojResolveAssemblyReference.cache
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\obj\x86\Debug\FaceBookCommunicator.Form1.resources
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\obj\x86\Debug\FaceBookCommunicator.Properties.Resources.resources
+C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\obj\x86\Debug\AI_Agent.csproj.GenerateResource.Cache
