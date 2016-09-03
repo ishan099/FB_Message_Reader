@@ -99,3 +99,6 @@ C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunic
 C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\obj\x86\Debug\FaceBookCommunicator.Form1.resources
 C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\obj\x86\Debug\FaceBookCommunicator.Properties.Resources.resources
 C:\Users\ishan\Dropbox\Final Project\Codes\Smart Order Plasing System\FBCommunicator\obj\x86\Debug\AI_Agent.csproj.GenerateResource.Cache
+C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\bin\Debug\EmailCommunicator.exe.config
+C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\obj\x86\Debug\EmailCommunicator.exe
+C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\obj\x86\Debug\EmailCommunicator.pdb
