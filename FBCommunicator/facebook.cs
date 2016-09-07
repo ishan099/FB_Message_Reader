@@ -28,7 +28,7 @@ namespace FaceBookCommunicator
         {
             //Console start and print the message
             Console.WriteLine("Message Receiving Started");
-            string facebookToken = "EAACEdEose0cBAFKszi1qJwTL6ZBLHkzZCqZBJVWV872QTX6wzrFiXnXtV17fRa1CTiIuC9cfdbOG8EggyeJZAdHSqKDtq9px0nLv6QErNk8IXuKfjDiwA12uEovjI7ZCZC1WyAZAJnD5khGe8PqcwRkJ1jEIiyLmgawjZA9xwFwTicHF0IhItYmi";
+            string facebookToken = "EAACEdEose0cBACBKNSvNcyIRo0KZAZCEsiq2qt7ZA9SjFKJZCjZALGyFM8flyu58EvZCLqih61s85syp9YPvuFWslKicNrpXxrYvxVebNuIFzsipab2iuWsnMK3277jILZBdMYOt0AICeJ91zRjE4GE9KbUD9ZBlFE1le9ZA9uSllHb0FFdTda0oA";
             var client = new FacebookClient(facebookToken);
             try
             {
