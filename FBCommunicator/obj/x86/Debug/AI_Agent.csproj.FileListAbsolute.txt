@@ -111,3 +111,6 @@ C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\bin\
 C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\obj\x86\Debug\AI_Agent.csprojResolveAssemblyReference.cache
 C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\obj\x86\Debug\FaceBookCommunicator.Properties.Resources.resources
 C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\obj\x86\Debug\AI_Agent.csproj.GenerateResource.Cache
+D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\bin\Debug\EmailCommunicator.exe.config
+D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\obj\x86\Debug\EmailCommunicator.exe
+D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\obj\x86\Debug\EmailCommunicator.pdb
