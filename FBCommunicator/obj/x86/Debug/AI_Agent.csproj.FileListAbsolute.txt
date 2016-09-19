@@ -114,3 +114,12 @@ C:\Users\ishan\Dropbox\Final Project\Codes\FB_Message_Reader\FBCommunicator\obj\
 D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\bin\Debug\EmailCommunicator.exe.config
 D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\obj\x86\Debug\EmailCommunicator.exe
 D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\obj\x86\Debug\EmailCommunicator.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\bin\Debug\EmailCommunicator.exe
+D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\bin\Debug\EmailCommunicator.pdb
+D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\bin\Debug\Facebook.dll
+D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\bin\Debug\Newtonsoft.Json.dll
+D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\bin\Debug\Facebook.xml
+D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\bin\Debug\Newtonsoft.Json.xml
+D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\obj\x86\Debug\AI_Agent.csprojResolveAssemblyReference.cache
+D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\obj\x86\Debug\FaceBookCommunicator.Properties.Resources.resources
+D:\MyStuff\ICBT\Final Project\SOPS\FB_Message_Reader\FBCommunicator\obj\x86\Debug\AI_Agent.csproj.GenerateResource.Cache
